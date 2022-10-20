@@ -1,0 +1,6 @@
+/**
+ * xlui-template v0.1.0
+ * (c) 2020-2022 君惜
+ * Released under the ISC License.
+ */
+.xl-input{border:1px solid #19be6b}.xl-form{border:1px solid #19be6b}.xl-form-item-label-required:before{content:'*';color:red}.xl-form-item-message{color:red}.xl-tree-li,.xl-tree-ul{list-style:none;padding-left:10px}.xl-tree-expand{cursor:pointer}.xl-table{width:100%;border-collapse:collapse;border-spacing:0;empty-cells:show;border:1px solid #e9e9e9}.xl-table th{background:#f7f7f7;color:#5c6b77;font-weight:600;white-space:nowrap}.xl-table td,table th{padding:8px 16px;border:1px solid #e9e9e9;text-align:left}.alert{position:fixed;width:100%;top:16px;pointer-events:none;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.alert-content{display:inline-block;padding:8px 16px;background:#fff;border-radius:3px;-webkit-box-shadow:0 1px 6px rgba(0,0,0,.2);box-shadow:0 1px 6px rgba(0,0,0,.2);margin-bottom:8px}.alert-main{-webkit-transition:all 1s;transition:all 1s}.list-leave-active{position:absolute}.list-enter,.list-leave-to{opacity:0;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%)}

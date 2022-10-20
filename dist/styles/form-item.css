@@ -1,0 +1,6 @@
+/**
+ * xlui-template v0.1.0
+ * (c) 2020-2022 君惜
+ * Released under the ISC License.
+ */
+.xl-form-item-label-required:before{content:'*';color:red}.xl-form-item-message{color:red}

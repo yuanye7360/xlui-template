@@ -1,0 +1,6 @@
+/**
+ * xlui-template v0.1.0
+ * (c) 2020-2022 君惜
+ * Released under the ISC License.
+ */
+.xl-table{width:100%;border-collapse:collapse;border-spacing:0;empty-cells:show;border:1px solid #e9e9e9}.xl-table th{background:#f7f7f7;color:#5c6b77;font-weight:600;white-space:nowrap}.xl-table td,table th{padding:8px 16px;border:1px solid #e9e9e9;text-align:left}

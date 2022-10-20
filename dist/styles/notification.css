@@ -1,0 +1,6 @@
+/**
+ * xlui-template v0.1.0
+ * (c) 2020-2022 君惜
+ * Released under the ISC License.
+ */
+.alert{position:fixed;width:100%;top:16px;pointer-events:none;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.alert-content{display:inline-block;padding:8px 16px;background:#fff;border-radius:3px;-webkit-box-shadow:0 1px 6px rgba(0,0,0,.2);box-shadow:0 1px 6px rgba(0,0,0,.2);margin-bottom:8px}.alert-main{-webkit-transition:all 1s;transition:all 1s}.list-leave-active{position:absolute}.list-enter,.list-leave-to{opacity:0;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%)}
